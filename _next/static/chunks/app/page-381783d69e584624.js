@@ -223,7 +223,7 @@
           [p, u] = (0, n.useState)(!m),
           [j, N] = (0, n.useState)("" !== c ? c : "Guest"),
           k = () => {
-            let e = new Audio("/musics/partyanthem.mp3");
+            let e = new Audio("/musics/sothisislove.mp3");
             (e.loop = !0),
               e.play().catch(() => {
                 document.addEventListener(
@@ -348,7 +348,7 @@
                           (0, t.jsx)("span", {
                             className:
                               "text-white text-[14px] font-medium ml-3",
-                            children: "26 Oktober 2024",
+                            children: "27 Agustus 2030",
                           }),
                         ],
                       }),
@@ -367,12 +367,12 @@
                           (0, t.jsx)("span", {
                             className:
                               "bg-[#4D4D4D] py-1.5 px-2 rounded-2xl text-[10px] text-white ml-2",
-                            children: "#family",
+                            children: "#action",
                           }),
                           (0, t.jsx)("span", {
                             className:
                               "bg-[#4D4D4D] py-1.5 px-2 rounded-2xl text-[10px] text-white ml-2",
-                            children: "#documenter",
+                            children: "#comedy",
                           }),
                         ],
                       }),
@@ -447,7 +447,7 @@
                       }),
                       (0, t.jsx)("h2", {
                         className: "text-lg leading-5 text-white font-bold",
-                        children: "Yohan & Alya: Sebelum Hari H",
+                        children: "Fauzan & Nazwa: Sebelum Hari H",
                       }),
                       (0, t.jsxs)("div", {
                         className:
@@ -468,7 +468,7 @@
                           }),
                           (0, t.jsx)("span", {
                             className: "text-white mr-2",
-                            children: "1h 26m",
+                            children: "10h 30m",
                           }),
                           (0, t.jsx)("span", {
                             className: "mr-2",
@@ -492,7 +492,7 @@
                       (0, t.jsx)("span", {
                         className:
                           "bg-[#E50913] py-1 px-2 rounded text-sm text-white font-bold",
-                        children: "Coming soon on Saturday, 26 October 2024",
+                        children: "Coming soon on Tuesday, 30 August 2030",
                       }),
                       (0, t.jsxs)("div", {
                         className: "mt-2",
@@ -501,7 +501,7 @@
                             className:
                               "text-white text-sm leading-[1.15rem] mb-2",
                             children:
-                              "Setelah Yohan dan Alya dipertemukan dalam situasi yang tepat, di mana keduanya telah siap untuk memulai hubungan bersama, tibalah mereka di awal perjalanan baru menuju pernikahan.",
+                              "Setelah Fauzan dan Nazwa dipertemukan di bisnis digital unimed dalam situasi yang tak disangka sangka, di mana keduanya masih bertarung dengan tugas hahaha, jangan bosen dan tetap bertahan, semoga kita sampai nikah yaa.",
                           }),
                           (0, t.jsx)("p", {
                             className:
@@ -539,7 +539,7 @@
                                 (0, t.jsx)("p", {
                                   className: "mt-4",
                                   children:
-                                    "Tapi sebelumnya, kami mohon maaf kepada teman dan kerabat semua karena tidak bisa mengundang kalian hadir di hari bahagia kami, dikarenakan pernikahan kami bersifat intimate wedding yang dilaksanakan di Bekasi dan hanya dihadiri oleh keluarga dan orang terdekat.",
+                                    "Tapi sebelumnya, kami mohon maaf kepada teman dan kerabat semua karena tidak bisa mengundang kalian hadir di hari bahagia kami, dikarenakan pernikahan kami bersifat intimate wedding yang dilaksanakan di Medan/Binjai dan hanya dihadiri oleh keluarga dan orang terdekat.",
                                 }),
                                 (0, t.jsx)("p", {
                                   className: "mt-4",
@@ -610,13 +610,13 @@
                                   (0, t.jsx)("h4", {
                                     className:
                                       "text-sm text-white font-medium mt-2",
-                                    children: "Alya Fadilah M.R",
+                                    children: "Nazwa Mutiara Sani",
                                   }),
                                   (0, t.jsx)("p", {
                                     className:
                                       "text-[#A3A1A1] text-xs leading-4 mt-2",
                                     children:
-                                      "Putri dari Bapak Budi Rahayu & Ibu Diah Isbandiah",
+                                      "Spill nama camer dong",
                                   }),
                                 ],
                               }),
@@ -632,13 +632,13 @@
                                   (0, t.jsx)("h4", {
                                     className:
                                       "text-sm text-white font-medium mt-2",
-                                    children: "Yohan Putra Nugraha",
+                                    children: "Fauzan Al Gholi",
                                   }),
                                   (0, t.jsx)("p", {
                                     className:
                                       "text-[#A3A1A1] text-xs leading-4 mt-2",
                                     children:
-                                      "Putra dari Bapak Kartono & Ibu Dalyati",
+                                      "Putra dari Bapak... kasih tau gak yaa",
                                   }),
                                 ],
                               }),
