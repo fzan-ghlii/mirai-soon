@@ -313,7 +313,7 @@
                     src: "/images/THUMBNAIL.png",
                     width: 300,
                     height: 500,
-                    alt: "Yohan & Alya",
+                    alt: "Fauzan & Nazwa",
                     layout: "responsive",
                   }),
                   (0, t.jsxs)("div", {
@@ -330,7 +330,7 @@
                       (0, t.jsx)("h1", {
                         className:
                           "text-white text-[2.03rem] font-bold leading-9",
-                        children: "Yohan & Alya:",
+                        children: "Fauzan & Nazwa:",
                       }),
                       (0, t.jsx)("h1", {
                         className:
