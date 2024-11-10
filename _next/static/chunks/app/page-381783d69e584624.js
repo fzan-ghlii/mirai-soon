@@ -191,7 +191,7 @@
           c =
             null !== (a = null == s ? void 0 : s.guest) && void 0 !== a
               ? a
-              : "Guest";
+              : "Kita atau Stalker?";
         console.log(s);
         let m = [
             "rahma-jenaka",
@@ -221,7 +221,7 @@
           [h, x] = (0, n.useState)(!1),
           [g, o] = (0, n.useState)(!1),
           [p, u] = (0, n.useState)(!m),
-          [j, N] = (0, n.useState)("" !== c ? c : "Guest"),
+          [j, N] = (0, n.useState)("" !== c ? c : "Kita atau Stalker?"),
           k = () => {
             let e = new Audio("/musics/sothisislove.mp3");
             (e.loop = !0),
@@ -266,7 +266,7 @@
                     }),
                     (0, t.jsxs)("span", {
                       className: "mt-[5rem] text-white",
-                      children: ["Who‘s ", p ? "Watching?" : "Invited?"],
+                      children: ["Siapa ", p ? "yang Menonton?" : "Invited?"],
                     }),
                     (0, t.jsxs)("div", {
                       id: "guest-icon",
@@ -280,7 +280,7 @@
                           src: "/logos/Guest Icon.png",
                           width: 100,
                           height: 100,
-                          alt: "Guest",
+                          alt: "Kita atau Stalker?",
                           className: "mt-8",
                         }),
                         (0, t.jsx)("span", {
@@ -819,7 +819,7 @@
                           (0, t.jsx)("p", {
                             className: "text-[#A3A1A1] text-xs mt-2",
                             children:
-                              "Yohan dan Alya pertama kali bertemu sebagai rekan kerja di kantor yang sama. Kegiatan-kegiatan kecil kantor yang sering melibatkan orang-orang didala...",
+                              "Fauzan dan Nazwa pertama kali bertemu sebagai mahasiswa di kelompok yang sama. Kegiatan-kegiatan kecil kelas yang sering melibatkan orang-orang didala...",
                           }),
                           (0, t.jsxs)("div", {
                             className: "flex gap-x-4 mt-5",
@@ -854,7 +854,7 @@
                           (0, t.jsx)("p", {
                             className: "text-[#A3A1A1] text-xs mt-2",
                             children:
-                              "Hari demi hari terlewati, sampai akhirnya mereka menyadari bahwa perasaan yang mereka miliki satu sama lain bukan sebatas rekan kerja belaka, melain...",
+                              "Hari demi hari terlewati, sampai akhirnya mereka menyadari bahwa perasaan yang mereka miliki satu sama lain bukan sebatas teman sekelas belaka, melain...",
                           }),
                           (0, t.jsxs)("div", {
                             className: "flex gap-x-4 mt-5",
@@ -889,7 +889,7 @@
                           (0, t.jsx)("p", {
                             className: "text-[#A3A1A1] text-xs mt-2",
                             children:
-                              "Seringkali Yohan memberitahu Alya bahwa ia tertarik dan ingin menjalani hubungan lebih serius. Sampai akhirnya di akhir 2023, Yohan mulai memberanikan...",
+                              "Wawa said, kakak ini mah udh dijalanin baru dibuat cerita, kalo ini? Hahaha mau buat dokumentasi dulu baru dijalanin?",
                           }),
                           (0, t.jsxs)("div", {
                             className: "flex gap-x-4 mt-5",
@@ -928,7 +928,7 @@
                           (0, t.jsx)("p", {
                             className: "text-[#A3A1A1] text-xs mt-2",
                             children:
-                              "Ketika hari H itu datang, Yohan dan Alya akan berbagi kisah haru mereka disini. Sampai bertemu lagi di cerita bahagia selanjutnya!",
+                              "Wawa said, kakak ini mah udh dijalanin baru dibuat cerita, kalo ini? Hahaha mau buat dokumentasi dulu baru dijalanin?",
                           }),
                         ],
                       }),
@@ -1083,7 +1083,7 @@
                         className: "mt-8 flex flex-col items-center",
                         children: (0, t.jsx)("p", {
                           className: "text-[10px] text-[#A3A1A1] mb-6",
-                          children: "E-Invitation made by Yohan & Alya with ♥",
+                          children: "E-Invitation made by Fauzan & Nazwa with ♥",
                         }),
                       }),
                     ],
