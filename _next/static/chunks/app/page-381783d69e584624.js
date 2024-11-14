@@ -348,7 +348,7 @@
                           (0, t.jsx)("span", {
                             className:
                               "text-white text-[14px] font-medium ml-3",
-                            children: "27 Agustus 2030",
+                            children: "27 Agustus 2005",
                           }),
                         ],
                       }),
