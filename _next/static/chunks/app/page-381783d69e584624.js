@@ -348,7 +348,7 @@
                           (0, t.jsx)("span", {
                             className:
                               "text-white text-[14px] font-medium ml-3",
-                            children: "27 Agustus 2005",
+                            children: "27 Agustus ????",
                           }),
                         ],
                       }),
@@ -492,7 +492,7 @@
                       (0, t.jsx)("span", {
                         className:
                           "bg-[#E50913] py-1 px-2 rounded text-sm text-white font-bold",
-                        children: "Coming soon on Tuesday, 30 August 2030",
+                        children: "Coming soon on 27 August ????",
                       }),
                       (0, t.jsxs)("div", {
                         className: "mt-2",
